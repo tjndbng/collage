@@ -1,0 +1,19 @@
+#h1{
+    font-family: fantasy;
+}
+
+body {
+    background-color: rgba(175, 253, 227, 0.916);
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2) ;
+}
+
+img:hover{
+    border-radius: 140px;
+}
